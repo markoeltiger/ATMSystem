@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "832565922087",
+    "project_id": "atm-system-68cfc",
+    "storage_bucket": "atm-system-68cfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832565922087:android:e65da7c37def4e66de0102",
+        "android_client_info": {
+          "package_name": "com.mark.onlineattendancesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832565922087-riecrcbmo1i1i6j8rh61atkk90g42i39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mark.onlineattendancesystem",
+            "certificate_hash": "2d456dded1010e2e5faa0ee42ff78272df00ef2d"
+          }
+        },
+        {
+          "client_id": "832565922087-f4c1af9btvai7us7981ps6l9m5rna8o1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChYql0FUvhYSLkwYJ28rZ95-J0I-MsImM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832565922087-f4c1af9btvai7us7981ps6l9m5rna8o1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
